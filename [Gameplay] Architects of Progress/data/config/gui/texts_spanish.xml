@@ -1,0 +1,112 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START SPECIALIST - Cordelia Huxmoor, Soberana de los Animales Domesticados-->
+    <Text>
+      <GUID>1888999287</GUID>
+      <Text>Cordelia Huxmoor, Soberana de los Animales Domesticados</Text>
+    </Text>
+    <Text>
+      <GUID>1888999288</GUID>
+      <Text>Pocos saben si Cordelia entrena a las bestias o si simplemente negocia con ellas, pues su sola presencia impone un orden invisible en los establos. Los granjeros aseguran que el ganado se vuelve dócil apenas ella pisa la tierra, mientras los estudiosos discuten si sus métodos pertenecen a la ciencia o a algo mucho más antiguo e instintivo.</Text>
+    </Text>
+    <!-- START SPECIALIST - Euphemia Ashcroft, Ingeniera Jefe de Explosivos Industriales-->
+    <Text>
+      <GUID>1888999289</GUID>
+      <Text>Euphemia Ashcroft, Ingeniera Jefe de Explosivos Industriales</Text>
+    </Text>
+    <Text>
+      <GUID>1888999290</GUID>
+      <Text>Para Euphemia, la calidad no se mide por el estruendo, sino por la puntualidad: una explosión perfecta ocurre exactamente cuando debe, ni un segundo antes ni un instante después. En sus talleres, la pólvora se trata con la precisión de un relojero y la química se somete a una disciplina casi militar.</Text>
+    </Text>
+    <!-- START SPECIALIST - Percival Cinderforge, Father of Combustion Engineering-->
+    <Text>
+      <GUID>1888999291</GUID>
+      <Text>Percival Cinderforge, Padre de la Ingeniería de Combustión</Text>
+    </Text>
+    <Text>
+      <GUID>1888999292</GUID>
+      <Text>Fue su obsesión por comprender el poder de la combustión lo que permitió que los motores dejaran de ser curiosidades para convertirse en verdaderas fuerzas de trabajo. Sus investigaciones transformaron humo y combustible en movimiento, dando origen a máquinas capaces de superar la modesta potencia de un solo caballo.</Text>
+    </Text>
+    <!-- START SPECIALIST - Octaviana Damaskridge, Great Engineer of the Textile Industry-->
+    <Text>
+      <GUID>1888999293</GUID>
+      <Text>Octaviana Damaskridge, Gran Ingeniera de la Industria Textil</Text>
+    </Text>
+    <Text>
+      <GUID>1888999294</GUID>
+      <Text>Octaviana posee un tacto tan refinado que distingue el carácter de una fibra con solo rozarla, y a lo largo de su carrera ha entrelazado casi todos los tejidos imaginables con resultados que desconciertan. Diseñadores y mercaderes coinciden en que sus telas son las mejores para crear ropajes de calidad.</Text>
+    </Text>
+    <!-- START SPECIALIST - Magnus Voltbright, High President of Luminous Industry Inc. -->
+    <Text>
+      <GUID>1888999295</GUID>
+      <Text>Magnus Voltbright, Presidente de la Industria Luminosa S. A.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999296</GUID>
+      <Text>Voltbright dirige su conglomerado internacional con mano de hierro, siempre atento a nuevas formas de exprimir a sus clientes mientras incrementa los beneficios personales de su filamento de carbono patentado. Aunque sabe que su tecnología comienza a quedar atrás, se esfuerza por presentarla como indispensable.</Text>
+    </Text>
+    <!-- START SPECIALIST - Gideon Kirov, Paragon of the Iron Foundry  -->
+    <Text>
+      <GUID>1888999297</GUID>
+      <Text>Gideon Kirov, Paladín de la Fundición de Hierro</Text>
+    </Text>
+    <Text>
+      <GUID>1888999298</GUID>
+      <Text>Kirov no delega: desciende personalmente a los hornos para comprobar si el acero cumple con los estándares más severos que él mismo impone. No le incomoda mancharse las manos de hollín ni soportar el calor abrasador, pues considera que ningún metal es digno de confianza sin haber pasado por su propia inspección.</Text>
+    </Text>
+    <!-- START SPECIALIST - Princess Celestine Prismeward, Sovereign of Perfect Reflection-->
+    <Text>
+      <GUID>1888999299</GUID>
+      <Text>Princesa Celestine Prismeward, Soberana del Reflejo Perfecto</Text>
+    </Text>
+    <Text>
+      <GUID>1888999300</GUID>
+      <Text>Celestineprocede de una familia de la realieza; conocida por su rigor tradicional y su conservadurismo inflexible, comprendió antes que muchos que la prosperidad no nace solo del linaje, sino del trato justo. En sus fábricas, la disciplina convive con la equidad, y los trabajadores reciben un trato justo y reconocimiento.</Text>
+    </Text>
+    <!-- START SPECIALIST - Dr. Phineas Aurichalcum, Precious Metal Transmuter -->
+    <Text>
+      <GUID>1888999301</GUID>
+      <Text>Dr. Phineas Aurichalcum, Transmutador de Metales Preciosos</Text>
+    </Text>
+    <Text>
+      <GUID>1888999302</GUID>
+      <Text>Dr. Aurichalcum desconfía de las fórmulas de la ciencia moderna y prefiere guiarse por corazonadas que solo él parece comprender, convencido de que el oro y la plata pueden nacer de los metales más humildes. En su laboratorio, los manuales académicos sirven más como combustible que como referencia.</Text>
+    </Text>
+    <!-- START SPECIALIST - Wilfred Grindstone, Pioneer of the Mechanical Mill -->
+    <Text>
+      <GUID>1888999303</GUID>
+      <Text>Wilfred Grindstone, Pionero del Molino Mecánico</Text>
+    </Text>
+    <Text>
+      <GUID>1888999304</GUID>
+      <Text>Con inventos que transformaron la molienda artesanal en un proceso continuo y preciso, Grindstone marcó un antes y un después en la producción industrial de harinas y panes. Donde antes reinaban la fuerza humana y el azar del viento, él introdujo engranajes y rodillos capaces de trabajar sin descanso.</Text>
+    </Text>
+    <!-- START SPECIALIST - Sebastian Sweetcliff, Chemist expert of Crystallized Sugar -->
+    <Text>
+      <GUID>1888999305</GUID>
+      <Text>Sebastian Sweetcliff, Químico Experto en Azúcar Cristalizado</Text>
+    </Text>
+    <Text>
+      <GUID>1888999306</GUID>
+      <Text>Sweetcliff recorrió innumerables universidades al rededor del mundo, absorbiendo cuanto saber existía sobre el tratamiento y refinado de plantas de todo tipo. De cada escuela tomó una técnica distinta, y de cada maestro, una teoría que luego combinó en métodos propios, tan precisos como indulgentes.</Text>
+    </Text>
+    <!-- START SPECIALIST - Mortimer Carrionfield, Multifunctional Butcher -->
+    <Text>
+      <GUID>1888999307</GUID>
+      <Text>Mortimer Carrionfield, Carnicero Multifuncional</Text>
+    </Text>
+    <Text>
+      <GUID>1888999308</GUID>
+      <Text>Carrionfield se considera a sí mismo el engranaje más importante de la cadena alimentaria, pues sostiene que incluso los restos merecen un destino productivo. Donde otros ven desperdicio, él ve materia prima lista para ser transformada en grasa, cuero o pieles. Su oficio no conoce sentimentalismo.</Text>
+    </Text>
+    <!-- START SPECIALIST - Helmuth Sauerbruch, The Molecular Whisperer -->
+    <Text>
+      <GUID>1888999311</GUID>
+      <Text>Helmuth Sauerbruch, El Susurrador Molecular</Text>
+    </Text>
+    <Text>
+      <GUID>1888999312</GUID>
+      <Text>Sauerbruch jamás confió en tablas ni en manuales, pues asegura que la verdadera química no se aprende leyendo, sino escuchando. En su laboratorio, atiende con devoción los vapores, los siseos y los latidos irregulares de sus cubas, convencido de que cada reacción emite un lenguaje propio.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

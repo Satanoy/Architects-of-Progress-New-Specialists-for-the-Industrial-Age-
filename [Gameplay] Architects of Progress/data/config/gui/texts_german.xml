@@ -1,0 +1,112 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START SPECIALIST - Cordelia Huxmoor, Sovereign of Tamed Animals-->
+    <Text>
+      <GUID>1888999287</GUID>
+      <Text>Cordelia Huxmoor, Herrscherin der gezähmten Tiere</Text>
+    </Text>
+    <Text>
+      <GUID>1888999288</GUID>
+      <Text>Wenige wissen, ob Cordelia die Tiere trainiert oder einfach mit ihnen verhandelt, denn schon ihre bloße Anwesenheit verleiht den Ställen eine unsichtbare Ordnung. Die Bauern behaupten, das Vieh werde fromm, sobald sie das Grundstück betritt, während Gelehrte darüber streiten, ob ihre Methoden der Wissenschaft angehören oder etwas viel Älterem und Instinktiverem.</Text>
+    </Text>
+    <!-- START SPECIALIST - Euphemia Ashcroft, Chief Engineer of Industrial Explosives-->
+    <Text>
+      <GUID>1888999289</GUID>
+      <Text>Euphemia Ashcroft, Chefingenieurin für industrielle Sprengstoffe</Text>
+    </Text>
+    <Text>
+      <GUID>1888999290</GUID>
+      <Text>Für Euphemia wird Qualität nicht am Lärm gemessen, sondern an der Pünktlichkeit: Eine perfekte Explosion geschieht genau dann, wenn sie soll – keine Sekunde früher, keinen Augenblick später. In ihren Werkstätten wird mit Schießpulver umgegangen wie ein Uhrmacher mit seinen Werkzeugen, und die Chemie unterliegt einer beinahe militärischen Disziplin.</Text>
+    </Text>
+    <!-- START SPECIALIST - Percival Cinderforge, Father of Combustion Engineering-->
+    <Text>
+      <GUID>1888999291</GUID>
+      <Text>Percival Cinderforge, Vater der Verbrennungstechnik</Text>
+    </Text>
+    <Text>
+      <GUID>1888999292</GUID>
+      <Text>Es war seine Besessenheit, die Kraft der Verbrennung zu verstehen, die es den Motoren ermöglichte, aufzuhören, bloße Kuriositäten zu sein, und zu wahren Arbeitskräften zu werden. Seine Forschung verwandelte Rauch und Brennstoff in Bewegung und brachte Maschinen hervor, die die bescheidene Kraft einer einzelnen Pferdestärke übertreffen konnten.</Text>
+    </Text>
+    <!-- START SPECIALIST - Octaviana Damaskridge, Great Engineer of the Textile Industry-->
+    <Text>
+      <GUID>1888999293</GUID>
+      <Text>Octaviana Damaskridge, Großingenieurin der Textilindustrie</Text>
+    </Text>
+    <Text>
+      <GUID>1888999294</GUID>
+      <Text>Octaviana besitzt einen so feinen Griff, dass sie allein durch eine Berührung den Charakter einer Faser erkennen kann, und im Laufe ihrer Karriere hat sie so gut wie jede erdenkliche Stoffart mit erstaunlichen Ergebnissen gewebt. Sowohl Designer als auch Einzelhändler sind sich einig, dass ihre Stoffe die besten für die Herstellung hochwertiger Kleidungsstücke sind.</Text>
+    </Text>
+    <!-- START SPECIALIST - Magnus Voltbright, President of Luminous Industry Inc. -->
+    <Text>
+      <GUID>1888999295</GUID>
+      <Text>Magnus Voltbright, Präsident der Luminous Industry Inc.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999296</GUID>
+      <Text>Voltbright führt seinen internationalen Konzern mit eiserner Faust, stets auf der Suche nach neuen Wegen, seine Kunden auszupressen und gleichzeitig seine persönlichen Gewinne aus seinem patentierten Kohlefaden zu steigern. Obwohl er weiß, dass seine Technologie veraltet, bemüht er sich, sie als unverzichtbar darzustellen.</Text>
+    </Text>
+    <!-- START SPECIALIST - Gideon Kirov, Paragon of the Iron Foundry -->
+    <Text>
+      <GUID>1888999297</GUID>
+      <Text>Gideon Kirov, Vorbild der Eisengießerei</Text>
+    </Text>
+    <Text>
+      <GUID>1888999298</GUID>
+      <Text>Kirov delegiert nicht: Er steigt persönlich in die Hochöfen hinab, um zu prüfen, ob der Stahl den strengen Standards entspricht, die er selbst festlegt. Es stört ihn nicht, sich die Hände mit Ruß zu bedecken oder die sengende Hitze zu ertragen, denn er glaubt, dass kein Metall vertrauenswürdig ist, ohne seine eigene Prüfung durchlaufen zu haben.</Text>
+    </Text>
+    <!-- START SPECIALIST - Princess Celestine Prismeward, Sovereign of Perfect Reflection -->
+    <Text>
+      <GUID>1888999299</GUID>
+      <Text>Prinzessin Celestine Prismeward, Herrscherin der perfekten Reflexion</Text>
+    </Text>
+    <Text>
+      <GUID>1888999300</GUID>
+      <Text>Celestine stammt aus einer königlichen Familie, die für ihre traditionelle Strenge und ihren unerschütterlichen Konservatismus bekannt ist. Sie begriff früher als viele, dass Wohlstand nicht nur aus der Abstammung erwächst, sondern auch aus fairer Behandlung. In ihren Fabriken koexistieren Disziplin und Gerechtigkeit, und die Arbeiter erhalten gerechte Behandlung und Anerkennung.</Text>
+    </Text>
+    <!-- START SPECIALIST - Dr. Phineas Aurichalcum, Precious Metal Transmuter  -->
+    <Text>
+      <GUID>1888999301</GUID>
+      <Text>Dr. Phineas Aurichalcum, Edelmetalldurchsetzer</Text>
+    </Text>
+    <Text>
+      <GUID>1888999302</GUID>
+      <Text>Dr. Aurichalcum misstraut den Formeln der modernen Wissenschaft und zieht es vor, sich von Eingebungen leiten zu lassen, die nur er selbst zu verstehen scheint, überzeugt davon, dass Gold und Silber aus den einfachsten Metallen erschaffen werden können. In seinem Labor dienen akademische Handbücher eher als Brennstoff denn als Nachschlagewerk.</Text>
+    </Text>
+    <!-- START SPECIALIST - Wilfred Grindstone, Pioneer of the Mechanical Mill -->
+    <Text>
+      <GUID>1888999303</GUID>
+      <Text>Wilfred Grindstone, Pionier der mechanischen Mühle</Text>
+    </Text>
+    <Text>
+      <GUID>1888999304</GUID>
+      <Text>Mit Erfindungen, die das handwerkliche Mahlen in einen kontinuierlichen und präzisen Prozess verwandelten, markierte Grindstone einen Wendepunkt in der industriellen Produktion von Mehl und Brot. Wo einst menschliche Kraft und die Launen des Windes herrschten, führte er Zahnräder und Walzen ein, die unermüdlich arbeiten konnten.</Text>
+    </Text>
+    <!-- START SPECIALIST - Sebastian Sweetcliff, Chemist expert of Crystallized Sugar-->
+    <Text>
+      <GUID>1888999305</GUID>
+      <Text>Sebastian Sweetcliff, Chemieexperte für kristallisierten Zucker</Text>
+    </Text>
+    <Text>
+      <GUID>1888999306</GUID>
+      <Text>Sweetcliff reiste an unzählige Universitäten auf der ganzen Welt und nahm alles verfügbare Wissen über die Verarbeitung und Veredelung aller Arten von Pflanzen in sich auf. Von jeder Schule übernahm er eine andere Technik, von jedem Lehrer eine Theorie, die er dann zu seinen eigenen Methoden kombinierte – präzise und zugleich sanft.</Text>
+    </Text>
+    <!-- START SPECIALIST - Mortimer Carrionfield, Multifunctional Butcher-->
+    <Text>
+      <GUID>1888999307</GUID>
+      <Text>Mortimer Carrionfield, Vielseitiger Fleischer</Text>
+    </Text>
+    <Text>
+      <GUID>1888999308</GUID>
+      <Text>Carrionfield betrachtet sich selbst als das wichtigste Zahnrad der Nahrungskette und vertritt die Ansicht, dass selbst Abfälle einen produktiven Zweck verdienen. Wo andere Abfall sehen, sieht er Rohmaterial, das darauf wartet, zu Fett, Leder oder Fellen verarbeitet zu werden. Sein Handwerk kennt keine Sentimentalität.</Text>
+    </Text>
+    <!-- START SPECIALIST - Helmuth Sauerbruch, The Molecular Whisperer -->
+    <Text>
+      <GUID>1888999311</GUID>
+      <Text>Helmuth Sauerbruch, Der Molekülflüsterer</Text>
+    </Text>
+    <Text>
+      <GUID>1888999312</GUID>
+      <Text>Sauerbruch vertraute nie auf Tabellen oder Handbücher, denn er vertrat die Auffassung, dass wahre Chemie nicht durch Lesen erlernt wird, sondern durch Zuhören. In seinem Labor lauschte er hingebungsvoll den Dämpfen, dem Zischen und den unregelmäßigen Pulsen seiner Gefäße, überzeugt davon, dass jede Reaktion ihre eigene Sprache spricht.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
